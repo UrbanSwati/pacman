@@ -13,5 +13,5 @@ To run the application, we need to run the file with the
 `public static void main(String[] args) ` method, our case its
 the java file titled `PacMan.java`
 
-
-![Java pacman screenshot]()
+### Screenshot
+![Java pacman screenshot](https://github.com/UrbanSwati/pacman/blob/master/src/main/resources/screenshot.png)
